@@ -116,10 +116,10 @@ namespace StudySpace
         {
             GL.Enable(EnableCap.DepthTest);//глубина теста,чтобы светилось нормально
             GL.Enable(EnableCap.Light0);
-            Space = new Bitmap(@"C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\Textures\Spacebmp.bmp");      
-            Mars = new Bitmap(@"C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\Textures\Mars.bmp");
-           FIO = new Bitmap(@"C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\Textures\ФИО.bmp");
-            Deimos = new Bitmap(@"C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\Textures\deimos2k.bmp");
+            Space = new Bitmap(@"C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars-with-Deimos\StudySpace\Textures\Spacebmp.bmp");      
+            Mars = new Bitmap(@"C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars-with-Deimos\StudySpace\Textures\Mars.bmp");
+           FIO = new Bitmap(@"C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars-with-Deimos\StudySpace\Textures\ФИО.bmp");
+            Deimos = new Bitmap(@"C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars-with-Deimos\StudySpace\Textures\deimos2k.bmp");
 
             texture = GL.GenTexture();
             GL.BindTexture(TextureTarget.ProxyTexture2D, texture);
