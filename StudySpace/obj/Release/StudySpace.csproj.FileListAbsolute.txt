@@ -1,0 +1,24 @@
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\obj\Release\StudySpace.csprojResolveAssemblyReference.cache
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\obj\Release\StudySpace.Form1.resources
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\obj\Release\StudySpace.Form2.resources
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\obj\Release\StudySpace.Properties.Resources.resources
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\obj\Release\StudySpace.csproj.GenerateResource.Cache
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\obj\Release\StudySpace.csproj.CoreCompileInputs.cache
+C:\Users\Micich\Desktop\StudySpace.exe.config
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\obj\Release\StudySpace.exe
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\obj\Release\StudySpace.pdb
+C:\Users\Micich\Desktop\StudySpace.exe
+C:\Users\Micich\Desktop\StudySpace.pdb
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\obj\Release\StudySpace.Form3.resources
+C:\Users\devil\Desktop\StudySpace.exe.config
+C:\Users\devil\Desktop\StudySpace.exe
+C:\Users\devil\Desktop\StudySpace.pdb
+C:\Users\devil\Desktop\Mars with Deimos\Курсовая работа\Settings\StudySpace\obj\Release\StudySpace.csprojResolveAssemblyReference.cache
+C:\Users\devil\Desktop\Mars with Deimos\Курсовая работа\Settings\StudySpace\obj\Release\StudySpace.Form1.resources
+C:\Users\devil\Desktop\Mars with Deimos\Курсовая работа\Settings\StudySpace\obj\Release\StudySpace.Form2.resources
+C:\Users\devil\Desktop\Mars with Deimos\Курсовая работа\Settings\StudySpace\obj\Release\StudySpace.Form3.resources
+C:\Users\devil\Desktop\Mars with Deimos\Курсовая работа\Settings\StudySpace\obj\Release\StudySpace.Properties.Resources.resources
+C:\Users\devil\Desktop\Mars with Deimos\Курсовая работа\Settings\StudySpace\obj\Release\StudySpace.csproj.GenerateResource.Cache
+C:\Users\devil\Desktop\Mars with Deimos\Курсовая работа\Settings\StudySpace\obj\Release\StudySpace.csproj.CoreCompileInputs.cache
+C:\Users\devil\Desktop\Mars with Deimos\Курсовая работа\Settings\StudySpace\obj\Release\StudySpace.exe
+C:\Users\devil\Desktop\Mars with Deimos\Курсовая работа\Settings\StudySpace\obj\Release\StudySpace.pdb

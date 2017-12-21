@@ -1,0 +1,58 @@
+C:\Users\Micich\Desktop\Mercury\Курсовая работа\Settings\StudySpace\bin\Debug\StudySpace.exe.config
+C:\Users\Micich\Desktop\Mercury\Курсовая работа\Settings\StudySpace\bin\Debug\StudySpace.exe
+C:\Users\Micich\Desktop\Mercury\Курсовая работа\Settings\StudySpace\bin\Debug\StudySpace.pdb
+C:\Users\Micich\Desktop\Mercury\Курсовая работа\Settings\StudySpace\obj\Debug\StudySpace.csprojResolveAssemblyReference.cache
+C:\Users\Micich\Desktop\Mercury\Курсовая работа\Settings\StudySpace\obj\Debug\StudySpace.Form1.resources
+C:\Users\Micich\Desktop\Mercury\Курсовая работа\Settings\StudySpace\obj\Debug\StudySpace.Properties.Resources.resources
+C:\Users\Micich\Desktop\Mercury\Курсовая работа\Settings\StudySpace\obj\Debug\StudySpace.csproj.GenerateResource.Cache
+C:\Users\Micich\Desktop\Mercury\Курсовая работа\Settings\StudySpace\obj\Debug\StudySpace.csproj.CoreCompileInputs.cache
+C:\Users\Micich\Desktop\Mercury\Курсовая работа\Settings\StudySpace\obj\Debug\StudySpace.exe
+C:\Users\Micich\Desktop\Mercury\Курсовая работа\Settings\StudySpace\obj\Debug\StudySpace.pdb
+C:\Users\Micich\Desktop\Mercury\Курсовая работа\Settings\StudySpace\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Micich\Desktop\Mercury\Курсовая работа\Settings\StudySpace\bin\Debug\OpenTK.dll
+C:\Users\Micich\Desktop\Mercury\Курсовая работа\Settings\StudySpace\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Micich\Desktop\Mercury\Курсовая работа\Settings\StudySpace\bin\Debug\OpenTK.pdb
+C:\Users\Micich\Desktop\Mercury\Курсовая работа\Settings\StudySpace\bin\Debug\OpenTK.xml
+C:\Users\Micich\Desktop\Mercury\Курсовая работа\Settings\StudySpace\bin\Debug\OpenTK.dll.config
+C:\Users\Micich\Desktop\Mercury\Курсовая работа\Settings\StudySpace\bin\Debug\OpenTK.Compatibility.dll.config
+C:\Users\Micich\Desktop\Mercury\Курсовая работа\Settings\StudySpace\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Micich\Desktop\Mercury\Курсовая работа\Settings\StudySpace\obj\Debug\StudySpace.Form2.resources
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\bin\Debug\StudySpace.exe.config
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\bin\Debug\StudySpace.exe
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\bin\Debug\StudySpace.pdb
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\bin\Debug\OpenTK.dll
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\bin\Debug\OpenTK.GLControl.dll
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\bin\Debug\OpenTK.pdb
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\bin\Debug\OpenTK.xml
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\bin\Debug\OpenTK.dll.config
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\bin\Debug\OpenTK.Compatibility.dll.config
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\bin\Debug\OpenTK.GLControl.xml
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\obj\Debug\StudySpace.csprojResolveAssemblyReference.cache
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\obj\Debug\StudySpace.Form1.resources
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\obj\Debug\StudySpace.Form2.resources
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\obj\Debug\StudySpace.Properties.Resources.resources
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\obj\Debug\StudySpace.csproj.GenerateResource.Cache
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\obj\Debug\StudySpace.csproj.CoreCompileInputs.cache
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\obj\Debug\StudySpace.exe
+C:\Users\Micich\Desktop\Mercury&Asteroid\Курсовая работа\Settings\StudySpace\obj\Debug\StudySpace.pdb
+C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\bin\Debug\StudySpace.exe.config
+C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\bin\Debug\StudySpace.exe
+C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\bin\Debug\StudySpace.pdb
+C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\bin\Debug\OpenTK.Compatibility.dll
+C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\bin\Debug\OpenTK.dll
+C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\bin\Debug\OpenTK.GLControl.dll
+C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\bin\Debug\OpenTK.pdb
+C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\bin\Debug\OpenTK.xml
+C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\bin\Debug\OpenTK.dll.config
+C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\bin\Debug\OpenTK.Compatibility.dll.config
+C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\bin\Debug\OpenTK.GLControl.xml
+C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\obj\Debug\StudySpace.csprojResolveAssemblyReference.cache
+C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\obj\Debug\StudySpace.Form1.resources
+C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\obj\Debug\StudySpace.Form2.resources
+C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\obj\Debug\StudySpace.Form3.resources
+C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\obj\Debug\StudySpace.Properties.Resources.resources
+C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\obj\Debug\StudySpace.csproj.GenerateResource.Cache
+C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\obj\Debug\StudySpace.csproj.CoreCompileInputs.cache
+C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\obj\Debug\StudySpace.exe
+C:\Users\devil\Desktop\Институт\Курсовые работы\3 семестр\Технологии пространственного моделирования\Mars with Deimos\StudySpace\obj\Debug\StudySpace.pdb
